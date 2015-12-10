@@ -1,4 +1,4 @@
-d07d7f81d0f9cf4aae45084d3d8ad5e7 *DESCRIPTION
+dabbd441f7df8393c8ebe76904eee5d6 *DESCRIPTION
 b2633d5b77d1359cb9903c318426c510 *NAMESPACE
 214eae307d40b50b947632d39b923b5e *R/measures.R
 fbf232545ddb2018ff4714d5e63cdc01 *R/misc.R
@@ -16,7 +16,7 @@ b9759b21550b7a27da80704e42c65c75 *man/rbvs-package.Rd
 f349d5801416be178f4cded1288f8f91 *man/standardise.Rd
 24f85f0077a3f6518b101e8914d73c04 *man/subsample.Rd
 0b8a912d8218d23476b8304bd245e3b9 *man/top.ranked.sets.Rd
-dc9e919702813f68fd0b87dd91df858f *src/Makevars
+155d246fd627709f5a66d2aa1efc3edb *src/Makevars
 11103a2b97a5c9b06e3deb9ce73de479 *src/dist_cor.c
 ed45b2406a4259f770e4634fb06a02f0 *src/dist_cor.h
 8e4a2865677a6dbb71196bf3d93ef4a8 *src/factor.model.c
@@ -28,10 +28,10 @@ bb19051197f0ce9787c8075d22a8a9fe *src/mcplus_coef.h
 f11d457420cc9e1baa8f7921317ce65d *src/pearson_cor.h
 bddb7eac2d450fb3d8e0e8b31b9d4a05 *src/penalised_common.c
 927d0f96025fc8f1191e87077f650d37 *src/penalised_common.h
-9556241de644dea3cac89f6770891b6d *src/rankings.c
+be98cf5eda6de712d7dd6c9129c45028 *src/rankings.c
 253eca8a13199ede6b704d8727e5e718 *src/rankings.h
-511cceb54396d7223bba5f01c080cafe *src/rbvs.c
+2a163207a1aa6985e6224cd6ca10b8b7 *src/rbvs.c
 6d089e305d6d5250730fbeba7511a18d *src/rbvs.h
-4a8ea93cc1b730fd06b6233f0cbd1bc1 *src/sort_r.h
+336313bd1bad23e039b10a4a1e7c492f *src/sort_r.h
 095db6f2081b70f31c0eeb0dd2c2d44b *src/utility_functions.c
 451f56f489159c848593cddd97fe65e9 *src/utility_functions.h
