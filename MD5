@@ -1,4 +1,4 @@
-dabbd441f7df8393c8ebe76904eee5d6 *DESCRIPTION
+c0a9569422e7f8f2e2bec917475739e8 *DESCRIPTION
 b2633d5b77d1359cb9903c318426c510 *NAMESPACE
 214eae307d40b50b947632d39b923b5e *R/measures.R
 fbf232545ddb2018ff4714d5e63cdc01 *R/misc.R
@@ -32,6 +32,6 @@ be98cf5eda6de712d7dd6c9129c45028 *src/rankings.c
 253eca8a13199ede6b704d8727e5e718 *src/rankings.h
 2a163207a1aa6985e6224cd6ca10b8b7 *src/rbvs.c
 6d089e305d6d5250730fbeba7511a18d *src/rbvs.h
-336313bd1bad23e039b10a4a1e7c492f *src/sort_r.h
+0b3712eaa2aa48402f58cdae1b8d5c24 *src/sort_r.h
 095db6f2081b70f31c0eeb0dd2c2d44b *src/utility_functions.c
 451f56f489159c848593cddd97fe65e9 *src/utility_functions.h

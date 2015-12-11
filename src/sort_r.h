@@ -46,7 +46,7 @@ defined __FreeBSD__ || defined __BSD__ || defined __bsdi__ ||        \
     
     /* swap a, b iff a>b */
     /* __restrict is same as restrict but better support on old machines */
-    static inline int sort_r_cmpswap(char *__restrict a, char *__restrict b, size_t w,
+    static inline int sort_r_cmpswap(char *restrict a, char *restrict b, size_t w,
                                      int (*compar)(const void *_a, const void *_b,
                                           void *_arg),
                                           void *arg)
