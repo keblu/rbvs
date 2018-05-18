@@ -117,7 +117,7 @@ top.ranked.sets <- function(rankings, k.max, min.max.freq=1,active=NULL){
 	active <- unique(as.integer(active))
 	
   rankings <- as.matrix(rankings)
-  if(!is.integer(x[1])) storage.mode(x) <- "integer"
+ # if(!is.integer(x[1])) storage.mode(x) <- "integer"
   
   #Check for NA's
   
